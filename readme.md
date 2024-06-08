@@ -24,3 +24,4 @@ Key Takeaways: there are barely any naturally summarized domainspecific Datasets
 
 
 
+![alt text](image.png)
