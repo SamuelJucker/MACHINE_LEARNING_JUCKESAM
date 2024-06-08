@@ -12,6 +12,8 @@ What is the Goal of this project.
  what are knowledgraphs?
 The Day to day life of financial professionals is usually very stressful and busy. Yet it is crucial to stay up to date with current events and news. Available Market overviews only offer a human-biased insight in the general events of the day. With this Project we can summarize each article by hand and therefore know that there is no human interference. In the end we get, what may seem trivial at first, but in the end is the decisive factor for success in the financial world, time.
 
+The Training is done here: custom_finnews_summarization.ipynb
+
 Saving time meticulously and therefore striving for efficiency is, not only, but especially in the financial world one of the core Values.
 
 Download model from my drive...........https://drive.google.com/drive/folders/1nE1GgVeeQ9vO1RqB09HyiuhTv1Ru13MH?usp=sharing
